@@ -1,5 +1,6 @@
 # APlagueTaleRats
 
+**#UPDATE, due to finding a copied project files for sale on the Marketplace, please keep in mind this project is for EDUCATIONAL purposes only, and not for sale. And there is no open license ever been attached to this repository. Download the project, learn from it, but don't Copy & Sell**
 
 ![](http://www.mamoniem.com/wp-content/uploads/2019/05/2019-05-03-23_56_29-2019-05-03-07_15_01-HighresScreenshot00002.png-IrfanView-Zoom_-1838-x-918.pn_.png)
 
